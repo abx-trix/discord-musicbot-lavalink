@@ -8,4 +8,7 @@ Requirements :
 - discord.py[voice] module
 - wavelink 0.9 module
 - path module
-- lavalink
+- lavalink.jar
+
+Note : 
+Remember to copy lavalink.jar in data folder!
