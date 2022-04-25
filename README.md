@@ -9,5 +9,8 @@ Requirements :
 - path module
 - lavalink.jar and java
 
+Addtional Files Link
+https://drive.google.com/drive/folders/1BXwLnppAXlGUpLOC-O9gVEoxRtpvgSHS?usp=sharing
+
 Note : 
 Remember to copy lavalink.jar in data folder!
