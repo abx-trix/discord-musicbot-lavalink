@@ -8,4 +8,4 @@ Requirements :
 - discord.py[voice] module
 - wavelink 0.9 module
 - path module
-- lavalink & application of lavalink (Actually, included in file)
+- lavalink
