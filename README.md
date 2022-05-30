@@ -9,7 +9,7 @@ Requirements :
 - path module
 - lavalink.jar and java
 
-Addtional Files Link :
+Additional Files Link :
 https://drive.google.com/drive/folders/1BXwLnppAXlGUpLOC-O9gVEoxRtpvgSHS?usp=sharing
 
 Note : 
